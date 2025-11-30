@@ -640,4 +640,4 @@ Firefly 的布局系统设计遵循以下原则：
 - 📚 [侧边栏配置文档](https://docs-firefly.cuteleaf.cn/config/sidebarConfig-usage/)
 - 📚 [站点配置文档](https://docs-firefly.cuteleaf.cn/config/siteConfig-usage/)
 - 🏠 [Firefly 官方文档](https://docs-firefly.cuteleaf.cn/)
-- ⭐ [Firefly GitHub](https://github.com/CuteLeaf/Firefly)
+- ⭐ [Firefly GitHub](https://github.com/zayck/Firefly)

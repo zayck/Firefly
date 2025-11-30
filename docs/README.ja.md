@@ -96,7 +96,7 @@
 - [ ] **アニメーションの滑らかさの継続的な最適化**
 - [ ] より多くの機能が継続的に改善中...
 
-便利な機能や最適化があれば、[Pull Request](https://github.com/CuteLeaf/Firefly/pulls)を提出してください
+便利な機能や最適化があれば、[Pull Request](https://github.com/zayck/Firefly/pulls)を提出してください
 
 ## 🚀 クイックスタート
 
@@ -109,10 +109,10 @@
 
 1. **リポジトリのクローン：**
    ```bash
-   git clone https://github.com/Cuteleaf/Firefly.git
+   git clone https://github.com/zayck/Firefly.git
    cd Firefly
    ```
-   **まず自分のリポジトリに[Fork](https://github.com/CuteLeaf/Firefly/fork)してからクローン（推奨）**
+   **まず自分のリポジトリに[Fork](https://github.com/zayck/Firefly/fork)してからクローン（推奨）**
    ```bash
    git clone https://github.com/you-github-name/Firefly.git
    cd Firefly
@@ -238,9 +238,9 @@ lang: zh-CN      # 記事の言語が`siteConfig.ts`のサイト言語と異な�
 
 ## 🍀 貢献者
 
-このプロジェクトに貢献してくれた以下の貢献者に感謝します。質問や提案がある場合は、[Issue](https://github.com/CuteLeaf/Firefly/issues)または[Pull Request](https://github.com/CuteLeaf/Firefly/pulls)を提出してください。
+このプロジェクトに貢献してくれた以下の貢献者に感謝します。質問や提案がある場合は、[Issue](https://github.com/zayck/Firefly/issues)または[Pull Request](https://github.com/zayck/Firefly/pulls)を提出してください。
 
-<a href="https://github.com/CuteLeaf/Firefly/graphs/contributors">
+<a href="https://github.com/zayck/Firefly/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=CuteLeaf/Firefly" />
 </a>
 

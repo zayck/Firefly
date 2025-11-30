@@ -8,7 +8,7 @@
 
 ## 🛠️ 关于本站
 
-这个网站使用 **Astro** 框架构建，在 [Firefly](https://github.com/CuteLeaf/Firefly) 主题上进行修改。之前也折腾过其他博客主题，比如：Hugo、Hexo……但还是想再折腾一下 Astro。
+这个网站使用 **Astro** 框架构建，在 [Firefly](https://github.com/zayck/Firefly) 主题上进行修改。之前也折腾过其他博客主题，比如：Hugo、Hexo……但还是想再折腾一下 Astro。
 
 
 **🖥️Hexo 博客演示： [Hexo - Demo site1](https://zayck.github.io)** | [Hexo - Demo site2](https://zayck.netlify.app)s
@@ -17,7 +17,7 @@
 
 **📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
 
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
+**⭐Firefly开源地址：[https://github.com/zayck/Firefly](https://github.com/zayck/Firefly)** 
 
 **⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
 

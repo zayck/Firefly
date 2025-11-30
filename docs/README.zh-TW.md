@@ -96,7 +96,7 @@
 - [ ] **持續優化動畫流暢度**
 - [ ] 更多功能持續完善中...
 
-如果你有好用的功能和優化，請提交 [Pull Request](https://github.com/CuteLeaf/Firefly/pulls)
+如果你有好用的功能和優化，請提交 [Pull Request](https://github.com/zayck/Firefly/pulls)
 
 ## 🚀 快速開始
 
@@ -109,10 +109,10 @@
 
 1. **克隆儲存庫：**
    ```bash
-   git clone https://github.com/Cuteleaf/Firefly.git
+   git clone https://github.com/zayck/Firefly.git
    cd Firefly
    ```
-   **先 [Fork](https://github.com/CuteLeaf/Firefly/fork) 到自己儲存庫再克隆（推薦）**
+   **先 [Fork](https://github.com/zayck/Firefly/fork) 到自己儲存庫再克隆（推薦）**
    ```bash
    git clone https://github.com/you-github-name/Firefly.git
    cd Firefly
@@ -238,9 +238,9 @@ lang: zh-CN      # 僅當文章語言與 `siteConfig.ts` 中的網站語言不�
 
 ## 🍀 貢獻者
 
-感謝以下貢獻者對本專案做出的貢獻，如有問題或建議，請提交 [Issue](https://github.com/CuteLeaf/Firefly/issues) 或 [Pull Request](https://github.com/CuteLeaf/Firefly/pulls)。
+感謝以下貢獻者對本專案做出的貢獻，如有問題或建議，請提交 [Issue](https://github.com/zayck/Firefly/issues) 或 [Pull Request](https://github.com/zayck/Firefly/pulls)。
 
-<a href="https://github.com/CuteLeaf/Firefly/graphs/contributors">
+<a href="https://github.com/zayck/Firefly/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=CuteLeaf/Firefly" />
 </a>
 

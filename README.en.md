@@ -96,7 +96,7 @@
 - [ ] **Continuous Animation Smoothness Optimization**
 - [ ] More features in continuous development...
 
-If you have useful features and optimizations, please submit a [Pull Request](https://github.com/CuteLeaf/Firefly/pulls)
+If you have useful features and optimizations, please submit a [Pull Request](https://github.com/zayck/Firefly/pulls)
 
 ## 🚀 Quick Start
 
@@ -109,10 +109,10 @@ If you have useful features and optimizations, please submit a [Pull Request](ht
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Cuteleaf/Firefly.git
+   git clone https://github.com/zayck/Firefly.git
    cd Firefly
    ```
-   **First [Fork](https://github.com/CuteLeaf/Firefly/fork) to your own repository then clone (recommended)**
+   **First [Fork](https://github.com/zayck/Firefly/fork) to your own repository then clone (recommended)**
    ```bash
    git clone https://github.com/you-github-name/Firefly.git
    cd Firefly
@@ -238,9 +238,9 @@ All commands need to be executed in the project root directory:
 
 ## 🍀 Contributors
 
-Thanks to the following contributors for their contributions to this project. If you have any questions or suggestions, please submit an [Issue](https://github.com/CuteLeaf/Firefly/issues) or [Pull Request](https://github.com/CuteLeaf/Firefly/pulls).
+Thanks to the following contributors for their contributions to this project. If you have any questions or suggestions, please submit an [Issue](https://github.com/zayck/Firefly/issues) or [Pull Request](https://github.com/zayck/Firefly/pulls).
 
-<a href="https://github.com/CuteLeaf/Firefly/graphs/contributors">
+<a href="https://github.com/zayck/Firefly/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=CuteLeaf/Firefly" />
 </a>
 
