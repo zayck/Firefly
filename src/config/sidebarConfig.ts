@@ -102,8 +102,8 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 	// 右侧边栏组件配置列表
 	rightComponents: [
 		{
-			// 组件类型：站点统计组件
-			type: "stats",
+			// 组件类型：日历组件
+			type: "calendar",
 			// 是否启用该组件
 			enable: true,
 			// 组件显示顺序
@@ -115,23 +115,23 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// CSS 类名
 			class: "onload-animation",
 			// 动画延迟时间
-			animationDelay: 200,
-		},
-		{
-			// 组件类型：日历组件
-			type: "calendar",
+			animationDelay: 250,
+			},
+			{
+			// 组件类型：站点统计组件
+			type: "stats",
 			// 是否启用该组件
 			enable: true,
 			// 组件显示顺序
 			order: 2,
 			// 组件位置
-			position: "sticky",
+			position: "top",
 			// 是否在文章详情页显示
 			showOnPostPage: false,
 			// CSS 类名
 			class: "onload-animation",
 			// 动画延迟时间
-			animationDelay: 250,
+			animationDelay: 200,
 		},
 		{
 			// 组件类型：侧边栏目录组件（只在文章详情页显示）

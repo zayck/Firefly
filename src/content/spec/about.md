@@ -1,17 +1,19 @@
 # 关于我 / About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好！我是 Zayck 少阳，一个科技树越点越歪的个人博主。
+
+90后 分享生活 | 美学 摄影 文化 | 学习 思维 小众
+
+公众号: [少阳手记](https://mp.weixin.qq.com/mp/homepage?__biz=MzU2MTI5MzE4OA==&hid=1&sn=356f3016aeac48fc034804fca1307349&scene=18#wechat_redirect)、[少阳研究所](http://mp.weixin.qq.com/mp/homepage?__biz=MzkwNDQxODAwNA==&hid=1&sn=dba09d5d905d80eb8c71d36cb9f340ee&scene=18#wechat_redirect)
 
 ## 🛠️ 关于本站
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
-
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+这个网站使用 **Astro** 框架构建，在 [Firefly](https://github.com/CuteLeaf/Firefly) 主题上进行修改。之前也折腾过其他博客主题，比如：Hugo、Hexo……但还是想再折腾一下 Astro。
 
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+**🖥️Hexo 博客演示： [Hexo - Demo site1](https://zayck.github.io)** | [Hexo - Demo site2](https://zayck.netlify.app)s
 
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
+**🖥️Hugo 博客演示 ： [Hugo - Demo site](https://blog.cuteleaf.cn/)**
 
 **📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
 
@@ -28,8 +30,10 @@
 
 如果你想和我交流技术问题，分享有趣的想法，或者只是想打个招呼，欢迎通过以下方式联系我：
 
-- 💻 **GitHub**: [CuteLeaf](https://github.com/CuteLeaf)
-- ✉️ **Email**: [xiaye@msn.com](mailto:xiaye@msn.com)
+- ⛩️ **Bilibili**: [Zayck-少阳](https://space.bilibili.com/341981702)
+- ⚜️ **微信公众号**: [少阳手记](https://mp.weixin.qq.com/mp/homepage?__biz=MzU2MTI5MzE4OA==&hid=1&sn=356f3016aeac48fc034804fca1307349&scene=18#wechat_redirect)
+- 🕋 **微信公众号**: [少阳研究所](https://mp.weixin.qq.com/mp/homepage?__biz=MzkwNDQxODAwNA==&hid=1&sn=dba09d5d905d80eb8c71d36cb9f340ee&scene=18#wechat_redirect)
+
 
 ---
 

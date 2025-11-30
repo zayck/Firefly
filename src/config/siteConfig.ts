@@ -6,25 +6,31 @@ import { fontConfig } from "./fontConfig";
 const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
-	title: "Firefly",
-	subtitle: "Demo site",
-	site_url: "https://firefly.cuteleaf.cn",
-	description:
-		"Firefly 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。",
-	keywords: [
-		"Firefly",
-		"Fuwari",
-		"Astro",
-		"ACGN",
-		"博客",
-		"技术博客",
-		"静态博客",
-	],
+  title: "Zayck' Blog",
+  subtitle: "系统 · 高效 · 实用",
+  site_url: "https://zayck.pages.dev",
+  description:
+    "系统 · 高效 · 实用",
+  keywords: [
+    "Zayck",
+    "少阳",
+    "少阳手记",
+    "少阳研究所",
+    "传统文化",
+    "资源",
+    "软件",
+    "网站",
+    "个人网站",
+    "obsidian",
+    "博客",
+    "技术博客",
+    "静态博客",
+  ],
 
 	lang: SITE_LANG,
 
 	themeColor: {
-		hue: 165, // 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
+		hue: 90, // 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
 		fixed: false, // 对访问者隐藏主题色选择器
 		defaultMode: "system", // 默认模式："light" 亮色，"dark" 暗色，"system" 跟随系统
 	},
@@ -32,7 +38,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		// 留空以使用默认 favicon
 		{
-			src: "/assets/images/favicon.ico", // 图标文件路径
+			src: "/assets/images/goat.svg", // 图标文件路径
 			theme: "light", // 可选，指定主题 'light' | 'dark'
 			sizes: "32x32", // 可选，图标大小
 		},
@@ -45,13 +51,13 @@ export const siteConfig: SiteConfig = {
 	// { type: "image", value: "https://example.com/logo.png", alt: "Firefly Logo" }
 	navbarLogo: {
 		type: "image",
-		value: "/assets/images/LiuYingPure3.svg",
+		value: "/assets/images/goat.svg",
 		alt: "🍀",
 	},
 	navbarTitle: "Firefly", // 导航栏标题，可以设置为与 title 不同的值，如果不设置则使用 title
 
 	// 站点开始日期，用于统计运行天数
-	siteStartDate: "2025-01-01", // 请修改为你的站点实际开始日期，格式：YYYY-MM-DD
+	siteStartDate: "2025-11-29", // 请修改为你的站点实际开始日期，格式：YYYY-MM-DD
 
 	// bangumi配置
 	bangumi: {
@@ -69,7 +75,8 @@ export const siteConfig: SiteConfig = {
 	pages: {
 		sponsor: true, // 赞助页面开关
 		guestbook: true, // 留言板页面开关，需要配置评论系统
-		bangumi: true, // 番组计划页面开关，含追番和游戏，dev调试时只获取一页数据，build才会获取全部数据
+		bangumi: false, // 番组计划页面开关，含追番和游戏，dev调试时只获取一页数据，build才会获取全部数据
+
 	},
 
 	// 文章列表布局配置
@@ -98,7 +105,7 @@ export const siteConfig: SiteConfig = {
 			// 桌面背景图片
 			desktop: "/assets/images/d1.webp",
 			// 移动背景图片
-			mobile: "/assets/images/m3.webp",
+			mobile: "/assets/images/d1.webp",
 		},
 
 		// Banner模式特有配置
@@ -109,23 +116,20 @@ export const siteConfig: SiteConfig = {
 			position: "0% 20%",
 
 			homeText: {
-				// 主页显示自定义文本（全局开关）
-				enable: true,
-				// 主页横幅主标题
-				title: "Lovely firefly!",
-				// 主页横幅副标题
-				subtitle: [
-					"In Reddened Chrysalis, I Once Rest",
-					"From Shattered Sky, I Free Fall",
-					"Amidst Silenced Stars, I Deep Sleep",
-					"Upon Lighted Fyrefly, I Soon Gaze",
-					"From Undreamt Night, I Thence Shine",
-					"In Finalized Morrow, I Full Bloom",
+					// 主页显示自定义文本（全局开关）
+					enable: true,
+					// 主页横幅主标题
+					title: "Zayck's Blog",
+					// 主页横幅副标题
+					subtitle: [
+					"系统 · 高效 · 实用",
+					"软件 | 工具 | 效率 | 分享",
+					"Diversity and Inclusiveness！",
 				],
 				typewriter: {
 					//打字机开启 → 循环显示所有副标题
 					//打字机关闭 → 每次刷新随机显示一条副标题
-					enable: false, // 启用副标题打字机效果
+					enable: true, // 启用副标题打字机效果
 					speed: 100, // 打字速度（毫秒）
 					deleteSpeed: 50, // 删除速度（毫秒）
 					pauseTime: 2000, // 完全显示后的暂停时间（毫秒）
@@ -137,12 +141,12 @@ export const siteConfig: SiteConfig = {
 					mobile: true, // 移动端显示横幅图片来源文本
 				},
 				text: {
-					desktop: "Pixiv - 晚晚喵", // 桌面端要显示的来源文本
-					mobile: "Pixiv - KiraraShss", // 移动端要显示的来源文本
+					desktop: "WeChat - 少阳手记", // 桌面端要显示的来源文本
+					mobile: "WeChat - 少阳手记", // 移动端要显示的来源文本
 				},
 				url: {
-					desktop: "https://www.pixiv.net/artworks/135490046", // 桌面端原始艺术品或艺术家页面的 URL 链接
-					mobile: "https://www.pixiv.net/users/42715864", // 移动端原始艺术品或艺术家页面的 URL 链接
+					desktop: "https://mp.weixin.qq.com/mp/homepage?__biz=MzU2MTI5MzE4OA==&hid=1&sn=356f3016aeac48fc034804fca1307349&scene=18#wechat_redirect", // 桌面端原始艺术品或艺术家页面的 URL 链接
+					mobile: "https://mp.weixin.qq.com/mp/homepage?__biz=MzU2MTI5MzE4OA==&hid=1&sn=356f3016aeac48fc034804fca1307349&scene=18#wechat_redirect", // 移动端原始艺术品或艺术家页面的 URL 链接
 				},
 			},
 			navbar: {
