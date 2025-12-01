@@ -32,7 +32,7 @@ export const siteConfig: SiteConfig = {
 	themeColor: {
 		hue: 90, // 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
 		fixed: false, // 对访问者隐藏主题色选择器
-		defaultMode: "system", // 默认模式："light" 亮色，"dark" 暗色，"system" 跟随系统
+		defaultMode: "light", // 默认模式："light" 亮色，"dark" 暗色，"system" 跟随系统
 	},
 
 	favicon: [
@@ -119,7 +119,7 @@ export const siteConfig: SiteConfig = {
 					// 主页显示自定义文本（全局开关）
 					enable: true,
 					// 主页横幅主标题
-					title: "Zayck's Blog",
+					title: "Zayck' Blog",
 					// 主页横幅副标题
 					subtitle: [
 					"系统 · 高效 · 实用",

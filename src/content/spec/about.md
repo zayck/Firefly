@@ -11,7 +11,7 @@
 这个网站使用 **Astro** 框架构建，在 [Firefly](https://github.com/zayck/Firefly) 主题上进行修改。之前也折腾过其他博客主题，比如：Hugo、Hexo……但还是想再折腾一下 Astro。
 
 
-**🖥️Hexo 博客演示： [Hexo - Demo site1](https://zayck.github.io)** | [Hexo - Demo site2](https://zayck.netlify.app)s
+**🖥️Hexo 博客演示： [Hexo - Demo site1](https://zayck.github.io)** | [Hexo - Demo site2](https://zayck.netlify.app)
 
 **🖥️Hugo 博客演示 ： [Hugo - Demo site](https://blog.cuteleaf.cn/)**
 
