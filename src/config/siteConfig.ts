@@ -54,15 +54,11 @@ export const siteConfig: SiteConfig = {
 		value: "/assets/images/goat.svg",
 		alt: "🍀",
 	},
-	navbarTitle: "Firefly", // 导航栏标题，可以设置为与 title 不同的值，如果不设置则使用 title
+	navbarTitle: "Zayck", // 导航栏标题，可以设置为与 title 不同的值，如果不设置则使用 title
 
 	// 站点开始日期，用于统计运行天数
 	siteStartDate: "2025-11-29", // 请修改为你的站点实际开始日期，格式：YYYY-MM-DD
 
-	// bangumi配置
-	bangumi: {
-		userId: "1163581", // 在此处设置你的Bangumi用户ID
-	},
 
 	// 文章页底部的"上次编辑时间"卡片开关
 	showLastModified: true,
@@ -75,7 +71,6 @@ export const siteConfig: SiteConfig = {
 	pages: {
 		sponsor: true, // 赞助页面开关
 		guestbook: true, // 留言板页面开关，需要配置评论系统
-		bangumi: false, // 番组计划页面开关，含追番和游戏，dev调试时只获取一页数据，build才会获取全部数据
 
 	},
 

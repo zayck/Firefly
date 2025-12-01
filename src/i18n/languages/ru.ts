@@ -52,49 +52,7 @@ export const ru: Translation = {
 	[Key.author]: "Автор",
 	[Key.publishedAt]: "Опубликовано",
 	[Key.license]: "Лицензия",
-	[Key.bangumi]: "Бангуми",
 
-	// Фильтр и статус Бангуми текст
-	[Key.bangumiTitle]: "Мой план группы",
-	[Key.bangumiSubtitle]: "Запись моего аниме путешествия",
-	[Key.bangumiFilterAll]: "Все",
-	[Key.bangumiFilterWatched]: "Просмотрено",
-	[Key.bangumiFilterWatching]: "Смотрю",
-	[Key.bangumiFilterWish]: "Хочу",
-	[Key.bangumiFilterOnHold]: "Отложено",
-	[Key.bangumiFilterDropped]: "Брошено",
-	[Key.bangumiStatusWish]: "Хочу",
-	[Key.bangumiStatusWatched]: "Просмотрено",
-	[Key.bangumiStatusWatching]: "Смотрю",
-	[Key.bangumiStatusOnHold]: "Отложено",
-	[Key.bangumiStatusDropped]: "Брошено",
-	[Key.bangumiStatusUnknown]: "Неизвестно",
-	[Key.bangumiNoData]: "Нет данных",
-	[Key.bangumiNoDataDescription]: "В этой категории нет элементов",
-	[Key.bangumiEmpty]: "Нет данных",
-	[Key.bangumiEmptyReason]:
-		"Возможные причины: имя пользователя не существует, проблема с подключением к сети или ограничение API",
-	[Key.bangumiUsername]: "Имя пользователя",
-	[Key.bangumiApi]: "API",
-	[Key.bangumiConfigTip]:
-		"Подсказка: установите правильное имя пользователя Bangumi в конфигурации страницы",
-	[Key.bangumiPrevPage]: "Предыдущая",
-	[Key.bangumiNextPage]: "Следующая",
-	[Key.bangumiCurrentPage]: "Страница",
-	[Key.bangumiTotalPages]: "из",
-	[Key.bangumiPage]: "страница",
-
-	// Категории Бангуми
-	[Key.bangumiCategoryBook]: "Книга",
-	[Key.bangumiCategoryAnime]: "Аниме",
-	[Key.bangumiCategoryMusic]: "Музыка",
-	[Key.bangumiCategoryGame]: "Игра",
-	[Key.bangumiCategoryReal]: "Реальный",
-
-	// Обновление данных Бангуми
-	[Key.bangumiLastUpdated]: "Данные обновлены",
-	[Key.bangumiUpdatedAt]: "Время сборки",
-	[Key.bangumiDataStatic]: "Статические данные",
 
 	// Пагинация
 	[Key.paginationFirst]: "Первая",
