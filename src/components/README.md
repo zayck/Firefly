@@ -103,7 +103,6 @@ Bangumi 番组追踪页面的相关组件，用于展示和管理用户的动漫
 页面特效和动画相关的组件。
 
 - `FancyboxManager.astro` - Fancybox 图片查看器管理组件
-- `SakuraEffect.astro` - 樱花飘落特效组件
 
 
 
@@ -124,4 +123,3 @@ Bangumi 番组追踪页面的相关组件，用于展示和管理用户的动漫
 8. **pages/** - 页面特定组件
 9. **effects/** - 页面特效和动画
 ---
-
