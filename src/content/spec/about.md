@@ -13,7 +13,7 @@
 
 **🖥️Hexo 博客演示： [Hexo - Demo site1](https://zayck.github.io)** | [Hexo - Demo site2](https://zayck.netlify.app)
 
-**🖥️Hugo 博客演示 ： [Hugo - Demo site](https://blog.cuteleaf.cn/)**
+**🖥️Hugo 博客演示 ： [Hugo - Demo site](https://zayck-teek.pages.dev/)**
 
 **📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
 
